@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/omdev"><img src="https://api.daily.dev/devcards/6d6425273cbf4d75bffea5a559a4551b.png?r=s87" width="400" alt="Om Dev's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/omdev74/omdev74/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 <!--
 **omdev74/omdev74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
